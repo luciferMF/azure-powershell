@@ -1,6 +1,6 @@
 # Exclude all.
 **/*
-
+#hello
 # Include the build.
 !artifacts/Release/**/*
 !artifacts/Debug/**/*
